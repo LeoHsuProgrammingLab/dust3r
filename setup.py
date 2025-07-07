@@ -7,7 +7,7 @@ setup(
     version='0.0',    
     packages=find_packages(),
     install_requires=[
-        'torch>=2.1.0',
+        'torch==2.5.1',
         'torchvision>=0.16.0',
         'roma',
         'gradio==4.44.1',
